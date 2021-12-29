@@ -3,5 +3,6 @@
 # Computing for the Sciences (CSCI 150; python, R), Data Structures (CSCI 201; java), Statistics (MATH 311; R), Data Science (MATH 118; R), and Statistical Learning (MATH 218; R).
 
 Here are some webapps I have built:
-https://www.shinyapps.io/admin/#/application/5229038
+https://jacksonevans.shinyapps.io/middleburycampus_editorialsentiments/
+https://jacksonevans.shinyapps.io/historical_co2_by_country/
 https://harai.shinyapps.io/campusopinionsentiment/
